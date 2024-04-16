@@ -94,3 +94,4 @@ d
 \s
 psql --username=frecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
+psql --username=freecodecamp --dbname=postgres
